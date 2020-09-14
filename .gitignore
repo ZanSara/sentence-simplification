@@ -1,0 +1,6 @@
+**/node_modules/*
+**/wiki/*
+**/access/*
+**/package.lock.json
+**/requirements.txt
+
